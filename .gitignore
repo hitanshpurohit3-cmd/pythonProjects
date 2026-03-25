@@ -1,1 +1,14 @@
+# Jupyter chechpoints (already there)
 .ipynb_checkpoints/ 
+
+#Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+#VS code settings
+.vscode/
+
+#Windows junk files
+Thumbs.db
+desktop.ini
