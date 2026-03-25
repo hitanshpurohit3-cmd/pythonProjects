@@ -11,4 +11,4 @@ Analyzes a synthetic dataset of 200 student exam scores using pure Numpy.
 **Key insight:** The passing rate and distinction rate are computed using Numpy boolean indexing - no loops, no pandas, 
 just vectorized operations.
 
-Run: `jupyter notebook student_Scores.ipynb
+Run: `jupyter notebook student_scores.ipynb
